@@ -1,1 +1,1 @@
-terraform init
+echo "Hai, Welcome to Jenkins"
